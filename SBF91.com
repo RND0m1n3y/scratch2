@@ -3,7 +3,7 @@
 %nproc=2
 # UBPW91/cc-pVDZ opt guess=(mix,always)
 
-Simple 2 diradical with benzene using UBPW91
+Simple diradical with benzene using UBPW91
 
 0 3
  C
